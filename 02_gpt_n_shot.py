@@ -26,7 +26,7 @@ few_shot_msg = [
     {"role": "assistant", "content": "짹짹"},
     {"role": "user", "content": "말"},
     {"role": "assistant", "content": "히이잉"},
-        {"role": "user", "content": "개구리"},
+    {"role": "user", "content": "개구리"},
     {"role": "assistant", "content": "개굴개굴"},
     {"role": "user", "content": "오리"}
 ]
